@@ -14,3 +14,5 @@ fruits.remove('apple')
 if ('kiwi' in fruits):
     fruits.remove('kiwi')
 
+# insert
+fruits.insert(1, 'bery')
